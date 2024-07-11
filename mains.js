@@ -4,10 +4,6 @@ const pageNames = {
   '/posts/post.html': 'posts',
   '/about/about.html': 'about',
   '/posts/blog1.html': 'welcome',
-  '/posts/blog2.html': 'cicada 3301',
-  '/posts/blog3.html': 'the big O',
-  '/posts/blog4.html': 'delusion',
-  '/posts/blog5.html': 'chronicle'
 };
 
 function generateBreadcrumbs() {
