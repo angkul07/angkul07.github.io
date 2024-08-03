@@ -157,3 +157,12 @@ h1 span {
 .about-text {
   max-width: 600px;
 }
+
+.snowflake {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 50%;
+  filter: blur(1px);
+}
