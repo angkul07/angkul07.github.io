@@ -75,15 +75,18 @@ body {
 
 .breadcrumbs {
   color: #7460E0;
+  padding: 0px;
 }
 
 .breadcrumbs a {
   color: #7460E0;
   text-decoration: none;
+  padding: 0px;
 }
 
 .breadcrumbs a:hover {
   color: #ffffff;
+  padding: 0px;
 }
 
 
